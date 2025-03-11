@@ -43,7 +43,7 @@ A simple and interactive **Tic-Tac-Toe** game that allows two players to compete
  Clone this repository:
 
 ```sh
-git clone https://github.com/your-username/tic-tac-toe.git  
+git clone https://github.com/Kiran20040329/SCT_WD_3/tree/main
 ```
 
  Open `index.html` in your browser! 🌐
